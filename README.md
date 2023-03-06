@@ -1,12 +1,5 @@
-# Insta-Hack I hackibra4
-![Discription](https://socialify-pt57hdgtz-whe.vercel.app/hackibra4/insta-hack/image?description=1&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark)
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful!&style=for-the-badge&color=410694"><br>
-  <img src="https://img.shields.io/badge/Version-9.0.0-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/HackerSM9/insta-hack?style=for-the-badge&color=teal">
-  <img src="https://img.shields.io/github/stars/HackerSM9/insta-hack?style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/HackerSM9/insta-hack?style=for-the-badge">
-</p>
+# Insta-Hack  hackibra4
+ 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-HackerSM9-purple?style=flat-square">
